@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @JoseRosique
 - 👀 I’m interested in Cibersegurity, C#, IA , VR and Metaverse.
 - 🌱 I’m currently learning C#, Web development and Cibersegurity.
-- 💞️ I’m looking to collaborate on projects of technology environment
+- 💞️ I’m looking to collaborate on projects of technology environment.
 - 📫 How to reach me https://www.linkedin.com/in/jose-antonio-lopez-rosique
 <!---
 JoseRosique/JoseRosique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
