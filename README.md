@@ -8,5 +8,3 @@
 JoseRosique/JoseRosique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![<joslopez>'s 42 stats](https://badge.mediaplus.ma/darkblue/<joslopez>)](https://github.com/oakoudad/badge42)
