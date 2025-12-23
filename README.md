@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoseRosique
-- 👀 Full Stack.
+- 👀 Full Stack Developer.
 - 📫 How to reach me https://www.linkedin.com/in/jose-antonio-lopez-rosique
 <!---
 JoseRosique/JoseRosique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
