@@ -1,5 +1,5 @@
-# Full Stack Developer
-Desarrollo de aplicaciones web y móviles, con experiencia en la creación de soluciones escalables, eficientes y centradas en la experiencia de usuario. Trabajo con tecnologías modernas como Angular, Ionic y .NET para desarrollar productos robustos, mantenibles y de alta calidad.
+# Full Stack Developer | Angular • .NET • Ionic
+Desarrollo de aplicaciones web y móviles, con experiencia en la creación de soluciones escalables, eficientes y centradas en la experiencia de usuario.
 
 <h3 align="left">Languages and Tools:</h3>
 
