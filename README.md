@@ -4,7 +4,7 @@ Desarrollo de aplicaciones web y móviles, con experiencia en la creación de so
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,bash,c,cpp,css,dart,docker,flutter,git,html,linux,matlab,postman,python,vagrant" />
+  <img src="https://skillicons.dev/icons?i=angular,net,aws,bash,c,cpp,css,dart,docker,flutter,git,html,linux,matlab,postman,python,vagrant" />
 </p>
 
 ---
